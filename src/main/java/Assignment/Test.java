@@ -13,6 +13,8 @@ public class Test {
 		WebDriver driver = new ChromeDriver();
 
 		driver.get("https://www.google.co.in/");
+		
+		System.out.println("1");
 
 	}
 
